@@ -1,0 +1,108 @@
+
+  
+       @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+       body{
+           background-size: cover;
+           background-position: center;
+           background-attachment: fixed;
+           background-color: hsla(281, 75%, 70%, 0.3);
+           }
+       
+       .main-img {
+          
+           width:1000px;
+           height:500px;
+           position:absolute;
+           left:200px; 
+             
+       }
+       .atm p{
+           font-size: 25px;
+           color:black;
+           position: absolute;
+           font-weight: bold;
+           top:900px;
+           left:20%;
+         }
+
+       .rounded-circle{
+           width:250px;
+           height:170px;
+           
+           
+       }
+       #rounded-circle1{
+           position: absolute;
+           top:900px;
+           left:1%;  
+       }         
+       #rounded-circle{
+           position: absolute;
+           top:900px;
+           right:25%;
+           
+       }
+       
+       .container a{
+           position: absolute;
+           margin-right: 40px;
+       }
+   
+       h2{
+         color:rgb(92, 5, 73);
+         text-shadow: 1px 2px 2px #000;
+       }
+       
+       h1{
+             color:black;
+             text-align:right;
+             font-weight: bold;
+             font-family:'Roboto', sans-serif;
+             margin-right:10px;
+             padding: 0 0 10px 0;
+             font-size: 25px;
+            
+       }
+       .header{
+           color:bisque;
+           text-shadow: 4px 4px 4px #000;
+           font-size: 25px;
+       
+       }
+
+
+       .online p{
+           font-size: 25px;
+           color: black;       
+           position: absolute;
+           font-weight: bold;
+           top:1300px;
+           right:20%;
+         }
+        #tag{
+           font-size: 25px;
+           color:black;       
+           position: absolute;
+           font-weight: bold;
+           top:1225px;
+           right:20%;
+         }
+         #rounded{
+           width:200px;
+           height:200px;
+           position: absolute;
+           top:1300px;
+           right:5%;
+           
+       }
+       
+       
+       #footer{
+               width: 100%;
+               text-align: center;
+               position:absolute;
+               top:1800px;
+       }
+   
+
+        
